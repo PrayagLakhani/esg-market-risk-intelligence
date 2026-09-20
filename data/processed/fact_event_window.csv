@@ -1,0 +1,26 @@
+event_id,ticker,sector,event_date,category,desc,confidence,status,alpha,beta,n_estimation_days,car_1_1_marketadj,car_1_1_marketmodel,car_3_3_marketadj,car_3_3_marketmodel,car_5_5_marketadj,car_5_5_marketmodel,car_10_10_marketadj,car_10_10_marketmodel,volume_change_pct,volatility_change,max_drawdown_pct,recovery_days,recovered_within_60d
+1,OIL,Energy,2020-05-27,Environmental,"Baghjan well blowout & fire, Assam",V,OK,-0.00284,0.843,110,-5.87,-4.24,-3.87,-0.6,0.0,5.21,-1.69,5.73,-47.2,-0.01063,-0.42,1.0,True
+2,RELIANCE,Energy,2017-03-24,Governance,"SEBI disgorgement order, RPL insider trading",V,OK,0.00028,0.627,110,-0.8,-0.82,-2.04,-2.16,1.7,1.49,4.22,4.72,88.0,0.00702,-2.16,0.0,True
+3,ADANIENT,Energy,2023-01-24,Governance,Hindenburg Research report,V,OK,0.00313,0.989,110,-1.2,-2.15,-16.76,-18.99,-44.11,-47.57,-42.05,-48.64,335.0,0.08906,-65.27,0.0,True
+4,ADANIENT,Energy,2024-11-20,Governance,US DOJ bribery indictment (Gautam Adani),K,OK,-0.00177,2.143,110,-22.42,-24.11,-26.52,-28.37,-12.82,-9.87,-12.88,-12.61,153.2,0.03279,-23.78,,False
+5,VEDL,Metals & Mining,2018-05-22,Environmental,Sterlite Copper Tuticorin protests,V,OK,0.00011,1.768,109,-4.91,-3.74,-8.63,-7.74,-8.88,-7.79,-13.28,-12.67,35.9,-0.00283,-23.29,0.0,True
+6,TATASTEEL,Metals & Mining,2014-09-24,Governance,Supreme Court cancels 204 coal-block allocations,V,OK,0.00196,1.253,109,-5.41,-5.27,-5.92,-6.81,-8.75,-10.95,-8.65,-11.94,-15.0,0.00134,-19.76,22.0,True
+7,TATASTEEL,Metals & Mining,2024-01-19,Social,"Port Talbot blast-furnace closure, 2800 jobs",V,OK,0.00017,1.277,110,0.43,0.81,2.78,3.6,0.62,0.57,6.5,5.78,31.7,0.0059,-0.69,0.0,True
+8,JSWSTEEL,Metals & Mining,2014-09-24,Governance,Coal-block cancellation (sector-contagion pair),V,OK,0.00054,1.325,109,-2.3,-1.52,-7.33,-7.08,-7.84,-8.49,-11.77,-11.84,-20.4,0.00611,-14.94,0.0,True
+9,YESBANK,Financials,2020-03-05,Governance,Governance crisis: RBI moratorium (Mar 5) + Rana Kapoor arrest (Mar 8) + SBI-led rescue,K,OK,-0.00476,1.778,109,-33.82,-30.23,27.27,35.81,19.55,36.67,119.3,152.76,-3.4,0.1746,-44.88,0.0,True
+11,PNB,Financials,2018-02-14,Governance,Nirav Modi / Mehul Choksi LoU fraud disclosed,K,OK,-0.00297,2.306,108,-19.62,-19.86,-26.95,-23.67,-29.08,-22.53,-45.43,-31.6,398.5,0.02079,-45.07,,False
+12,ICICIBANK,Financials,2018-03-28,Governance,Kochhar-Videocon scandal breaks publicly,V,OK,0.00069,1.573,109,-7.89,-8.56,-5.14,-5.72,-5.63,-7.58,-5.52,-7.31,61.3,0.00135,-7.77,7.0,True
+13,DHFL,Financials,2019-01-29,Governance,"Cobrapost expose, fund diversion allegations",V,OK,-0.00171,0.989,109,-23.46,-22.96,-59.48,-58.28,-49.89,-48.01,-68.73,-65.13,75.1,0.00687,-43.29,,False
+14,DHFL,Financials,2019-06-04,Governance,Default on NCD interest payment,V,OK,-0.00529,0.896,107,-15.09,-13.57,-23.89,-20.14,-21.81,-16.0,-62.0,-51.01,74.6,0.01565,-64.84,,False
+15,MARUTI,Automobiles,2012-07-18,Social,Manesar plant violence,K,OK,0.00043,0.746,109,-7.83,-7.74,-7.24,-8.11,-4.92,-6.53,-4.01,-5.13,98.5,0.00675,-9.72,0.0,True
+16,MARUTI,Automobiles,2021-08-23,Governance,CCI fines Maruti for restricting dealer discounts,V,OK,-0.00062,0.688,110,-0.88,-0.59,-3.67,-3.1,-6.45,-4.7,-8.96,-5.65,-7.7,-0.00384,-3.54,9.0,True
+17,TATAMOTORS,Automobiles,2008-10-03,Social,Nano plant relocated from Singur after protests,K,OK,-0.00304,0.908,110,-0.67,-0.52,-9.44,-8.45,-8.47,-6.67,-28.48,-24.29,46.5,0.00319,-62.84,,False
+18,INFY,IT,2017-08-18,Governance,CEO Vishal Sikka resigns amid governance clash,K,OK,-0.00028,0.757,110,-8.83,-9.1,-10.8,-10.25,-2.2,-1.87,-7.3,-7.12,301.6,0.01704,-14.44,,False
+19,INFY,IT,2019-10-21,Governance,Whistleblower complaints against CEO,K,OK,0.00136,0.344,110,-14.19,-14.5,-17.25,-17.31,-25.6,-24.2,-16.02,-15.28,160.3,0.028,-16.21,57.0,True
+20,SATYAM,IT,2009-01-07,Governance,Chairman confesses to accounting fraud,K,OK,-0.00336,0.683,109,-103.36,-104.92,-77.33,-77.24,-106.03,-105.21,-62.61,-59.26,1779.6,0.20085,-88.66,,False
+21,NTPC,Power,2017-11-01,Social,Unchahar plant boiler explosion,K,OK,-0.00014,0.676,110,-1.88,-1.64,-3.98,-3.54,-3.86,-3.4,0.49,0.44,36.8,-0.00067,-5.13,2.0,True
+23,RANBAXY,Pharma,2008-09-16,Governance,"US FDA import alert, Paonta Sahib plant",V,OK,0.00187,0.529,110,-13.6,-16.64,-20.74,-23.62,-30.35,-36.16,-60.99,-69.64,-12.7,0.00765,-59.83,,False
+24,RANBAXY,Pharma,2013-05-13,Governance,"Guilty plea to US DOJ, $500M settlement",K,OK,-0.00161,0.931,108,3.19,3.4,4.15,5.24,-7.2,-5.37,-16.43,-12.95,51.9,0.01258,-41.56,1.0,True
+25,SUNPHARMA,Pharma,2015-12-17,Governance,"USFDA warning letter, Halol facility",V,OK,-0.00041,0.932,110,1.34,1.52,-1.36,-0.91,1.07,1.74,11.55,12.39,39.8,-0.00329,-3.81,0.0,True
+27,HINDUNILVR,FMCG,2001-03-07,Environmental,Kodaikanal mercury dumping exposed by Greenpeace/local protests,V,OK,-0.00138,0.714,107,-0.46,0.3,5.52,2.84,13.27,12.53,16.02,15.13,24.5,0.00788,-10.27,0.0,True
+28,NESTLEIND,FMCG,2015-06-05,Social,"Maggi noodles lead-content ban, nationwide recall",K,OK,0.00113,0.497,108,-9.07,-9.97,-4.86,-7.51,-9.58,-12.86,-6.38,-9.89,656.2,0.02456,-7.25,0.0,True
